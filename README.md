@@ -61,18 +61,10 @@ Additionally, it allows exporting ideas into a **professional pitch deck (PDF)**
 - **CSS3** – Responsive UI, animations, modern styling  
 - **JavaScript (ES6)** – Core logic and state management  
 - **LocalStorage API** – Saves history of generated ideas  
-- **[jsPDF](https://github.com/parallax/jsPDF)** – PDF generation for pitch decks  
-- **[canvas-confetti](https://github.com/catdad/canvas-confetti)** – Celebration animation  
-
 ---
 
 ## 🚀 Getting Started
 
-### 1️⃣ Clone the repository
-```bash
-git clone https://github.com/your-username/ai-venture-lab.git
-cd ai-venture-lab
-```
 
 2️⃣ Open the project
 
@@ -97,5 +89,5 @@ Add some screenshots or GIFs of the app UI here.
 ## 📜 License
 - This project is licensed under the MIT License – feel free to use, modify, and distribute.
 * 👨‍💻 Author
-  Tejas Soni
-📍 Kanpur, India
+    MD.SAIFULLAH
+Bangalore, India
